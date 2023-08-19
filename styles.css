@@ -9,7 +9,7 @@ td{
     border: 1px solid black;
 }
 body{
-    background-image: url("chess-4k.jpg");
+    background-image: url("./chess-4k.jpg");
     background-size: cover;
 }
 td:hover{
